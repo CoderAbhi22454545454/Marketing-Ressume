@@ -178,6 +178,10 @@ header {
   header {
     height: 90vh;
   }
+  #center-wrapper {
+  margin: 5% 8%;
+}
+
 }
 /* --------- Exper section ---------------- */
 #center-wrapper {
